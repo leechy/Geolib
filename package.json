@@ -58,7 +58,7 @@
     "postversion": "grunt replace",
     "prepublish": "npm t"
   },
-  "version": "2.0.25",
+  "version": "2.0.26",
   "typings": "dist/geolib.d.ts",
   "main": "dist/geolib.js",
   "dependencies": {
